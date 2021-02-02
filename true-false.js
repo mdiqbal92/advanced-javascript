@@ -1,19 +1,19 @@
-//true values
+// true values
 // '0'
 // " "
 // []
 
-//False values
+// False values
 // 0
 // ""
-//false itself
+// false itself
 // undefined
 // Nan
-//null
+// null
 
-let name = "";
-console.log(name);
-if(name){
+let checkName = NaN;
+console.log(checkName);
+if(checkName){
 console.log("condition is true")
 }
 else{
